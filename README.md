@@ -1,4 +1,4 @@
-# ZendSkeletonApplication
+# ZendSkeletonApplication - A PHP Framework! (by more)
 
 ## Introduction
 
